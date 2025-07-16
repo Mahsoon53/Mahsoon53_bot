@@ -1,5 +1,5 @@
 git init
 git add .
 git commit -m "اولین نسخه ربات حسین"
-git remote add origin https://github.com/username/hossein-telegram-bot.git
+git remote add origin https://github.com/username/hossein-Mahsoon53_bot.git
 git push -u origin master
